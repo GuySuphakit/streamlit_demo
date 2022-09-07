@@ -1,4 +1,4 @@
-# Name of Streamlit App
+# Streamlit Demo
 
 Description of the app ...
 
